@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Db4oViewer", "Db4oViewer.csproj", "{595D600C-A24C-4B8E-8D83-8883BE71233F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Db4oMiniViewer", "Db4oMiniViewer.csproj", "{595D600C-A24C-4B8E-8D83-8883BE71233F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
