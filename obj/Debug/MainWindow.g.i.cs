@@ -164,7 +164,7 @@ namespace OBD3 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Db4oViewer;component/mainwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Db4oMiniViewer;component/mainwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\MainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

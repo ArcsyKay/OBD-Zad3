@@ -56,3 +56,4 @@ D:\Kisuo\Desktop\OBD\db4oviewer\obj\Debug\Db4oViewer.csproj.GenerateResource.Cac
 D:\Kisuo\Desktop\OBD\db4oviewer\obj\Debug\Db4oViewer.TrustInfo.xml
 D:\Kisuo\Desktop\OBD\db4oviewer\obj\Debug\Db4oViewer.exe.manifest
 D:\Kisuo\Desktop\OBD\db4oviewer\obj\Debug\Db4oViewer.application
+D:\Kisuo\Desktop\OBD\db4oviewer\bin\Debug\Db4oMiniViewer.exe.config
